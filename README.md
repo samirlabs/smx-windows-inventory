@@ -1,6 +1,3 @@
-# smx-windows-inventory
-Script PowerShell para coleta de inventário de computadores Windows.
-
 # SMX Windows Inventory
 
 Script PowerShell para coleta de inventário de computadores Windows.
